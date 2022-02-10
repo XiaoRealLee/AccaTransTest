@@ -1,10 +1,3 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <root>
-  <str key="931262" type="ugdt">Blackheart</str>
-  <str key="2133224" type="ucdt">NC's Perfect Shotgun</str>
-  <str key="2250465" type="ucdt">Adds a cosmetic attachment to your ANT. All factions can use this gear.</str>
-  <str key="2280696" type="ugdt">Sensor Shield 3</str>
-  <str key="2525758" type="ucdt">Time Remaining: [*Time*]</str>
-
-  <str key="1261098" type="ucdt">2.5x Zoom Optics</str>
 </root>
